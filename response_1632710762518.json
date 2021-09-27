@@ -1,0 +1,156 @@
+[
+  {
+    "tipo": "CONTA_CORRENTE",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "291900",
+    "titular": {
+      "id": "c56dfef4-7901-44fb-84e2-a2cefb157890",
+      "nome": "Rafael M C Ponte",
+      "cpf": "02467781054"
+    }
+  },
+  {
+    "tipo": "CONTA_POUPANCA",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "291900",
+    "titular": {
+      "id": "5260263c-a3c1-4727-ae32-3bdb2538841b",
+      "nome": "Yuri Matheus",
+      "cpf": "86135457004"
+    }
+  },
+  {
+    "tipo": "CONTA_CORRENTE",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "123455",
+    "titular": {
+      "id": "5260263c-a3c1-4727-ae32-3bdb2538841b",
+      "nome": "Yuri Matheus",
+      "cpf": "86135457004"
+    }
+  },
+  {
+    "tipo": "CONTA_CORRENTE",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "212233",
+    "titular": {
+      "id": "0d1bb194-3c52-4e67-8c35-a93c0af9284f",
+      "nome": "Alberto Tavares",
+      "cpf": "06628726061"
+    }
+  },
+  {
+    "tipo": "CONTA_POUPANCA",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "212233",
+    "titular": {
+      "id": "0d1bb194-3c52-4e67-8c35-a93c0af9284f",
+      "nome": "Alberto Tavares",
+      "cpf": "06628726061"
+    }
+  },
+  {
+    "tipo": "CONTA_CORRENTE",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "889976",
+    "titular": {
+      "id": "bc35591d-b547-4151-a325-4a9d2cd19614",
+      "nome": "Tiago de Freitas",
+      "cpf": "64370752019"
+    }
+  },
+  {
+    "tipo": "CONTA_CORRENTE",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "483201",
+    "titular": {
+      "id": "2ac09233-21b2-4276-84fb-d83dbd9f8bab",
+      "nome": "Alefh Silva",
+      "cpf": "83082363083"
+    }
+  },
+  {
+    "tipo": "CONTA_POUPANCA",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "483201",
+    "titular": {
+      "id": "2ac09233-21b2-4276-84fb-d83dbd9f8bab",
+      "nome": "Alefh Silva",
+      "cpf": "83082363083"
+    }
+  },
+  {
+    "tipo": "CONTA_CORRENTE",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "084329",
+    "titular": {
+      "id": "de95a228-1f27-4ad2-907e-e5a2d816e9bc",
+      "nome": "Cassio Almeida",
+      "cpf": "31643468081"
+    }
+  },
+  {
+    "tipo": "CONTA_CORRENTE",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "125987",
+    "titular": {
+      "id": "ae93a61c-0642-43b3-bb8e-a17072295955",
+      "nome": "Leonardo Silva",
+      "cpf": "40764442058"
+    }
+  },
+  {
+    "tipo": "CONTA_POUPANCA",
+    "instituicao": {
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "ispb": "60701190"
+    },
+    "agencia": "0001",
+    "numero": "125987",
+    "titular": {
+      "id": "ae93a61c-0642-43b3-bb8e-a17072295955",
+      "nome": "Leonardo Silva",
+      "cpf": "40764442058"
+    }
+  }
+]
